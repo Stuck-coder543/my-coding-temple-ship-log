@@ -1,1 +1,3 @@
-Add a commit message to describe what you did.
+# my-coding-temple-ship-log
+
+Author: Coding Temple
